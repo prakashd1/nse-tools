@@ -1,5 +1,5 @@
 {
-  "name": "new",
+  "name": "nse-tools",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
@@ -7,7 +7,37 @@
   "dependencies": {
     "react": "16.5.2",
     "react-dom": "16.5.2",
-    "react-scripts": "2.0.3"
+    "react-scripts": "2.0.3",
+    "react-bootstrap": "^0.32.3",
+    "react-confirm": "^0.1.17",
+    "react-datetime": "^2.15.0",
+    "react-dom-factories": "^1.0.2",
+    "react-grid-layout": "^0.16.6",
+    "react-helmet": "^5.2.0",
+    "react-number-format": "^3.5.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-select": "^2.1.2",
+    "react-super-responsive-table": "^4.3.2",
+    "react-text-mask": "^5.4.3",
+    "recharts": "^1.4.1",
+    "redux": "^4.0.0",
+    "redux-immutable": "^4.0.0",
+    "redux-immutable-state-invariant": "^2.1.0",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-saga": "^0.16.0",
+    "redux-thunk": "^2.3.0",
+    "rest": "^2.0.0",
+    "sass-loader": "^7.1.0",
+    "sinon": "^6.2.0",
+    "style-loader": "^0.23.0",
+    "url-loader": "^1.1.1",
+    "validator": "^10.7.1",
+    "immutable": "^3.8.2",
+    "webpack-dev-server": "^3.1.7"
   },
   "devDependencies": {},
   "scripts": {
@@ -16,10 +46,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ]
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
 }
