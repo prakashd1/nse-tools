@@ -6,8 +6,7 @@ export default function App() {
   console.log("something is happening");
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Work in progress</h1>
     </div>
   );
 }
