@@ -1,10 +1,10 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import { Switch, Route, Redirect } from "react-router-dom";
-import SimpleNeuron from "./SimpleNeuron";
+import Resturant from "./Resturants";
 class App extends React.Component {
   render() {
-    var sn = new SimpleNeuron();
+    var sn = new Resturant();
     var x = sn.calculate();
 
     return (
